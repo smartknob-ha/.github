@@ -1,4 +1,4 @@
-![](https://github.com/smartknob-ha/.github/blob/main/Banner.png)
+![](https://github.com/smartknob-ha/.github/blob/main/Banner1.png)
 # SmartKnob-HA
 
 We are working on improving the [scottbez1/smartknob](https://github.com/scottbez1/smartknob) project by integrating it into Home Assistant.
